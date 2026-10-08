@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title(" This is My Loan Pridector App")
+st.title(" Loan Predictor")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
